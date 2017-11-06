@@ -1,0 +1,1 @@
+var myApp = angular.module('application_form', ['jsonforms'])
